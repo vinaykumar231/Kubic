@@ -9,9 +9,7 @@ In this commit, the following changes were made:
 - Implemented modal dialogs for adding and editing student data.
 - Ensured proper validation and handling of form submissions.
 
-These changes enhance the project by providing the ability to efficiently manage student data within the application.
 
-Fixes #<issue_number> (if applicable)
 
 
 Output:-
